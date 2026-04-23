@@ -20,4 +20,4 @@ Inicie o arquivo Query com seu Banco de Dados.
 
 ## Diagrama
 
-(imagem aqui)
+![banner](diagrama.jpg)
