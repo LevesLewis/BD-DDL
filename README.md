@@ -12,6 +12,7 @@ Projeto de Banco de Dados, gestão escolar, estudo de DDL.
 ## Tecnologias
 
 PostgreSQL
+
 SQL
 
 ## Como executar
