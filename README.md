@@ -21,5 +21,5 @@ Inicie o arquivo Query com seu Banco de Dados.
 ## Diagrama - Gestão ESCOLAR, DDl
 
 <p align="center">
-  <img src="diagrama.png" width="600"/>
+  <img src="DiagramaER.png" width="600"/>
 </p>
