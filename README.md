@@ -18,6 +18,8 @@ SQL
 
 Inicie o arquivo Query com seu Banco de Dados.
 
-## Diagrama
+## Diagrama - Gestão ESCOLAR, DDl
 
-![banner](diagrama.jpg)
+<p align="center">
+  <img src="diagrama.png" width="600"/>
+</p>
