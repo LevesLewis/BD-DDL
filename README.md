@@ -18,7 +18,7 @@ SQL
 
 Inicie o arquivo Query com seu Banco de Dados.
 
-## Diagrama - Gestão ESCOLAR, DDl
+## Diagrama - Gestão Escolar, DDL
 
 <p align="center">
   <img src="DiagramaER.png" width="600"/>
